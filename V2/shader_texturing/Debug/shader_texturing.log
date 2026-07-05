@@ -1,0 +1,18 @@
+﻿  demo.cpp
+C:\Desktop\Itch.io\Build\V2\shader_texturing\demo.cpp(59,63): warning C4474: 'printf' : too many arguments passed for format string
+C:\Desktop\Itch.io\Build\V2\shader_texturing\demo.cpp(59,63): message : placeholders and their parameters expect 0 variadic arguments, but 2 were provided
+C:\Desktop\Itch.io\Build\V2\shader_texturing\demo.cpp(271,17): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V2\shader_texturing\demo.cpp(272,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V2\shader_texturing\demo.cpp(273,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V2\shader_texturing\demo.cpp(276,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V2\shader_texturing\demo.cpp(287,44): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V2\shader_texturing\demo.cpp(289,44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V2\shader_texturing\demo.cpp(295,44): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V2\shader_texturing\demo.cpp(297,44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V2\shader_texturing\demo.cpp(303,37): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V2\shader_texturing\demo.cpp(305,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V2\shader_texturing\demo.cpp(311,38): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V2\shader_texturing\demo.cpp(313,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V2\shader_texturing\demo.cpp(319,39): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V2\shader_texturing\demo.cpp(321,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  shader_texturing.vcxproj -> C:\Desktop\Itch.io\Build\V2\Debug\shader_texturing.exe

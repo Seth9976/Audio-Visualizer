@@ -1,0 +1,167 @@
+﻿  main.cpp
+F:\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Desktop\Itch.io\Build\V1\glfw-3.3.2.bin.WIN32\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\matrix.h(189,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\matrix.h(190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(84,64): warning C4474: 'printf' : too many arguments passed for format string
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(84,64): message : placeholders and their parameters expect 0 variadic arguments, but 2 were provided
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(181,4): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(189,4): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(197,4): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(336,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(336,18): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(374,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(375,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(370,13): warning C4101: 'k': unreferenced local variable
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(423,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(427,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(437,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(438,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(440,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(443,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(444,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(445,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(446,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(447,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(448,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(450,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(451,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(452,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(453,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(454,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(455,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(457,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(458,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(459,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(460,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(461,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(462,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(464,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(465,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(466,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(467,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(468,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(469,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(471,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(472,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(473,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(474,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(475,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(476,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(478,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(479,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(480,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(481,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(482,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(483,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(486,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(487,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(488,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(489,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(490,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(491,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(493,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(494,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(495,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(496,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(497,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(498,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(500,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(501,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(502,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(503,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(504,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(505,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(508,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(509,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(510,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(511,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(512,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(513,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(515,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(517,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(518,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(519,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(520,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(521,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(522,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(524,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(525,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(526,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(527,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(528,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(529,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(531,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(532,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(533,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(534,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(535,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(536,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(543,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(546,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(606,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(626,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(654,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(687,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(695,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(707,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(715,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(727,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(735,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(747,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(755,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(767,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(775,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(787,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(795,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(806,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(810,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(814,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(818,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(831,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(835,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(839,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(843,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(856,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(860,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(864,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(868,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(927,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(944,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(978,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1010,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1044,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1077,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1111,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1232,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1233,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1239,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1253,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1310,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1261,9): warning C4101: 'm': unreferenced local variable
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1405,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1414,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1420,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1426,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1429,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1435,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1438,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1444,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1447,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1453,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1456,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\triangle_demo.h(1462,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Itch.io\Build\V1\opengl_blend\main.cpp(40,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\main.cpp(41,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\main.cpp(45,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\main.cpp(46,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\main.cpp(47,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\main.cpp(47,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  matrix.cpp
+C:\Desktop\Itch.io\Build\V1\opengl_blend\vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\matrix.h(189,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Itch.io\Build\V1\opengl_blend\matrix.h(190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  opengl_blend.vcxproj -> C:\Desktop\Itch.io\Build\V1\Debug\opengl_blend.exe
